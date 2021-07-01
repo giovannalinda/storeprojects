@@ -1,6 +1,6 @@
-<h1 align = "center">storeprojects</h1>
+<h1 align = "center">Store Projects</h1>
 
-Aplicação para armazenar projetos e suas tarefas do zero utilizando Express.
+<h2 align = "center">Aplicação para armazenar projetos e suas tarefas do zero utilizando Express.</h2>
 
 ### Rotas
 
