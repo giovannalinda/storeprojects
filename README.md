@@ -4,7 +4,7 @@ Aplicação para armazenar projetos e suas tarefas do zero utilizando Express.
 
 ### Rotas
 
-Post/projects - Deve receber um id e title no corpo e cadastrar um novo projeto dentro do array: { id: "1", title: 'Novo projeto', tasks: [] },
+Post/projects - Deve receber um id e title no corpo e cadastrar um novo projeto dentro do array: { id: "3", title: 'Novo projeto', tasks: [ "Ir ao supermercado", "Lavar a roupa suja" ] },
 
 Get/projects - Rota lista todos projetos e suas tarefas,
 
