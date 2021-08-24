@@ -2,7 +2,7 @@
 
 <h4 align = "center">Application to store projects and their tasks from scratch using Express. 🙃</h4>
 
-### Rotas
+### Routs
 
 Post/projects - Must receive an id and title in the body and register a new project within the array: { id: "3", title: 'New project', tasks: [ "Go to the supermarket", "Washing dirty clothes" ] },
 
