@@ -1,6 +1,6 @@
 <h1 align = "center">Store Projects</h1>
 
-<h4 align = "center">Aplicação para armazenar projetos e suas tarefas do zero utilizando Express. 🙃</h4>
+<h4 align = "center">Application to store projects and their tasks from scratch using Express. 🙃</h4>
 
 ### Rotas
 
